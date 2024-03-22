@@ -1,2 +1,3 @@
 # Library-management-system
-I create the database of library management system in SQL and also make its ERD.
+<br>Aurthor Nouman khalid
+This project is a database management system for a library, implemented using MySQL as the database management system. 
